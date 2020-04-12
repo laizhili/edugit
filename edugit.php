@@ -9,6 +9,6 @@ class test
 {
     public function git()
     {
-        echo 'hello';
+        echo 'hello test3';
     }
 }
